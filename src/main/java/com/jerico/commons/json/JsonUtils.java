@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.List;
 
 /**
- * json工具类
+ * json工具类-封装jackson
  *
  * @author hairu
  * @date 2023-4-5 19:51
